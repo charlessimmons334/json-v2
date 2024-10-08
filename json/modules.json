@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1728324316.255283
+    "timestamp": 1728346486.955499
   },
   "modules": [
     {
@@ -779,6 +779,14 @@
           "versionCode": 1,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/MacRandomizationEnabler/v1_1.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1598109398.0,
+          "version": "v4.0.4",
+          "versionCode": 4,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/MacRandomizationEnabler/v4.0.4_4.zip",
+          "changelog": "",
+          "size": 20786
         }
       ]
     },
