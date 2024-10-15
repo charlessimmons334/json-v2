@@ -8,6 +8,14 @@
       "versionCode": 1,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/lhroot/v2.2.0_1.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1703514265.0,
+      "version": "2.1",
+      "versionCode": 21,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/lhroot/2.1_21.zip",
+      "changelog": "",
+      "size": 27887
     }
   ]
 }
