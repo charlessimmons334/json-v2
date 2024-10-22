@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1729598798.376746
+    "timestamp": 1729620321.402013
   },
   "modules": [
     {
@@ -152,6 +152,14 @@
           "versionCode": 4,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/BraviaEngine/v4.0.4_4.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1697807984.0,
+          "version": "v5.3",
+          "versionCode": 530,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/BraviaEngine/v5.3_530.zip",
+          "changelog": "",
+          "size": 4513297
         }
       ]
     },
