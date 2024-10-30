@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1730225126.101221
+    "timestamp": 1730247328.695383
   },
   "modules": [
     {
@@ -3812,6 +3812,14 @@
           "versionCode": 8,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wifi-bonding-nolog/v8_8.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1698433306.0,
+          "version": "v1.5.7",
+          "versionCode": 1507,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wifi-bonding-nolog/v1.5.7_1507.zip",
+          "changelog": "",
+          "size": 7570
         }
       ]
     },

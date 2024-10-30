@@ -8,6 +8,14 @@
       "versionCode": 8,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wifi-bonding-nolog/v8_8.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1698433306.0,
+      "version": "v1.5.7",
+      "versionCode": 1507,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wifi-bonding-nolog/v1.5.7_1507.zip",
+      "changelog": "",
+      "size": 7570
     }
   ]
 }
