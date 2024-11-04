@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1730657098.580004
+    "timestamp": 1730679371.479908
   },
   "modules": [
     {
@@ -1519,17 +1519,19 @@
     {
       "id": "abootloop",
       "name": "Anti bootloop",
-      "version": "v1.3.1",
-      "versionCode": 5,
+      "version": "v1.3.2",
+      "versionCode": 6,
       "author": "nedorazrab0",
-      "description": "Protection from bootloop",
+      "description": "Bootloop protection",
       "added": 1719067581.595615,
+      "category": "Bootloop protection",
+      "homepage": "https://github.com/Magisk-Modules-Alt-Repo/abootloop",
       "support": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/issues",
       "license": "MIT",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/README.md",
       "verified": false,
-      "timestamp": 1721435287.0,
-      "size": 4574,
+      "timestamp": 1730660996.0,
+      "size": 5316,
       "features": {
         "service": true,
         "post_fs_data": true
@@ -1554,6 +1556,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/abootloop/v1.3.1_5.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/abootloop/v1.3.1_5.md",
           "size": 4574
+        },
+        {
+          "timestamp": 1730660996.0,
+          "version": "v1.3.2",
+          "versionCode": 6,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/abootloop/v1.3.2_6.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/abootloop/v1.3.2_6.md",
+          "size": 5316
         }
       ]
     },
