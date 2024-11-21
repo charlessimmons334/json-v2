@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1732169141.164587
+    "timestamp": 1732190810.921868
   },
   "modules": [
     {
@@ -738,8 +738,8 @@
       "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
       "verified": false,
-      "timestamp": 1731788534.0,
-      "size": 11527719,
+      "timestamp": 1731855817.0,
+      "size": 11527824,
       "features": {
         "apks": true
       },
@@ -763,6 +763,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/HideNavBar/v27.5_68.zip",
           "changelog": "",
           "size": 11527719
+        },
+        {
+          "timestamp": 1731855817.0,
+          "version": "v4.6.6",
+          "versionCode": 466,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/HideNavBar/v4.6.6_466.zip",
+          "changelog": "",
+          "size": 11527824
         }
       ]
     },
@@ -1529,6 +1537,14 @@
           "versionCode": 1,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/YAKT/v10_1.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1693126069.0,
+          "version": "v4.6.6",
+          "versionCode": 466,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/YAKT/v4.6.6_466.zip",
+          "changelog": "",
+          "size": 6262
         }
       ]
     },
