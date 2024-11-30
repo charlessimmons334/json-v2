@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1732968365.636607
+    "timestamp": 1732989883.429242
   },
   "modules": [
     {
@@ -3897,8 +3897,8 @@
       "license": "AGPL-3.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
       "verified": false,
-      "timestamp": 1722148008.0,
-      "size": 19661,
+      "timestamp": 1729236859.0,
+      "size": 19770,
       "features": {
         "post_fs_data": true,
         "resetprop": true
@@ -3924,6 +3924,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v1.5.7_1507.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v1.5.7_1507.md",
           "size": 19661
+        },
+        {
+          "timestamp": 1729236859.0,
+          "version": "v15.1.0",
+          "versionCode": 1510,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v15.1.0_1510.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v15.1.0_1510.md",
+          "size": 19770
         }
       ]
     },
