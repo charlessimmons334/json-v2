@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1734221911.717798
+    "timestamp": 1734242742.907954
   },
   "modules": [
     {
@@ -3033,8 +3033,8 @@
     {
       "id": "node_on_android",
       "name": "Systemless Node.js",
-      "version": "1.6.6",
-      "versionCode": 166,
+      "version": "1.6.7",
+      "versionCode": 167,
       "author": "Der_Googler",
       "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
       "added": 1719068080.044674,
@@ -3053,8 +3053,8 @@
         "mkshrc"
       ],
       "verified": false,
-      "timestamp": 1719753163.0,
-      "size": 27182620,
+      "timestamp": 1734232789.0,
+      "size": 27182774,
       "features": {
         "service": true,
         "modconf": true
@@ -3086,6 +3086,14 @@
           "versionCode": 166,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/node/1.6.6_166.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1734232789.0,
+          "version": "1.6.7",
+          "versionCode": 167,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/node/1.6.7_167.zip",
+          "changelog": "",
+          "size": 27182774
         }
       ]
     },
