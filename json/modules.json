@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1734372345.386103
+    "timestamp": 1734394604.529246
   },
   "modules": [
     {
@@ -3207,8 +3207,8 @@
     {
       "id": "open_webview",
       "name": "Open Webview",
-      "version": "2.5.0",
-      "versionCode": 250,
+      "version": "2.5.2",
+      "versionCode": 252,
       "author": "F3FFO",
       "description": "Open Webview change your system webview",
       "added": 1719068126.207347,
@@ -3217,8 +3217,8 @@
       "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
       "verified": false,
-      "timestamp": 1734285048.0,
-      "size": 22201595,
+      "timestamp": 1734388190.0,
+      "size": 22201610,
       "features": {
         "post_fs_data": true
       },
@@ -3243,6 +3243,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/open_webview/2.5.0_250.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/open_webview/2.5.0_250.md",
           "size": 22201595
+        },
+        {
+          "timestamp": 1734388190.0,
+          "version": "2.5.2",
+          "versionCode": 252,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/open_webview/2.5.2_252.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/open_webview/2.5.2_252.md",
+          "size": 22201610
         }
       ]
     },
