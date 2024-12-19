@@ -6,7 +6,7 @@
   "submission": "https://github.com/Magisk-Modules-Alt-Repo/submission/issues/new?assignees=&labels=module&projects=&template=module-submission.yml&title=%5BModule%5D+",
   "metadata": {
     "version": 1,
-    "timestamp": 1734610020.434414
+    "timestamp": 1734631532.562137
   },
   "modules": [
     {
@@ -2769,8 +2769,8 @@
     {
       "id": "magisk-module-koruri-font",
       "name": "Koruri Font",
-      "version": "v28",
-      "versionCode": 28,
+      "version": "v29",
+      "versionCode": 29,
       "author": "lindwurm,AndroPlus",
       "description": "Koruri font patch for Japanese users. Koruri is open source Japanese font.",
       "added": 1719068010.423123,
@@ -2779,8 +2779,8 @@
       "license": "WTFPL",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font/master/README.md",
       "verified": false,
-      "timestamp": 1711254247.0,
-      "size": 7681823,
+      "timestamp": 1734613350.0,
+      "size": 7681857,
       "features": {
         "post_fs_data": true
       },
@@ -2797,6 +2797,14 @@
           "versionCode": 28,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-module-koruri-font/v28_28.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-module-koruri-font/v28_28.md"
+        },
+        {
+          "timestamp": 1734613350.0,
+          "version": "v29",
+          "versionCode": 29,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-module-koruri-font/v29_29.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/magisk-module-koruri-font/v29_29.md",
+          "size": 7681857
         }
       ]
     },
