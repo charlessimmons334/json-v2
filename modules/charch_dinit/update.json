@@ -8,6 +8,14 @@
       "versionCode": 2,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/charch_dinit/v1.1_2.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1648456059.0,
+      "version": "v27.5",
+      "versionCode": 68,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/charch_dinit/v27.5_68.zip",
+      "changelog": "",
+      "size": 137315
     }
   ]
 }
