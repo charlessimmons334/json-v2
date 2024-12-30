@@ -3,14 +3,6 @@
   "timestamp": 1710598878.0,
   "versions": [
     {
-      "timestamp": 1727548125.0,
-      "version": "1.1.5",
-      "versionCode": 7,
-      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/chroot-distro/1.1.5_7.zip",
-      "changelog": "",
-      "size": 689090
-    },
-    {
       "timestamp": 1728725274.0,
       "version": "1.2.1",
       "versionCode": 9,
@@ -49,6 +41,14 @@
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/chroot-distro/1.3.1_13.zip",
       "changelog": "",
       "size": 693301
+    },
+    {
+      "timestamp": 1735512977.0,
+      "version": "1.3.2",
+      "versionCode": 14,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/chroot-distro/1.3.2_14.zip",
+      "changelog": "",
+      "size": 693396
     }
   ]
 }
