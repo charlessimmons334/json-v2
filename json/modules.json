@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1738929997.767619
+    "timestamp": 1738951530.981428
   },
   "modules": [
     {
@@ -4509,8 +4509,8 @@
       "support": "https://github.com/Magisk-Modules-Alt-Repo/wadbd/issues",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/main/README.md",
       "verified": false,
-      "timestamp": 1736594565.0,
-      "size": 49969,
+      "timestamp": 1737624827.0,
+      "size": 49409,
       "features": {
         "action": true,
         "webroot": true
@@ -4522,14 +4522,6 @@
         "antifeatures": null
       },
       "versions": [
-        {
-          "timestamp": 1732293876.0,
-          "version": "1.0",
-          "versionCode": 1,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wadbd/1.0_1.zip",
-          "changelog": "",
-          "size": 4176
-        },
         {
           "timestamp": 1732293876.0,
           "version": "v1.1",
@@ -4569,6 +4561,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wadbd/4.3_6.zip",
           "changelog": "",
           "size": 49969
+        },
+        {
+          "timestamp": 1737624827.0,
+          "version": "v8",
+          "versionCode": 8,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/wadbd/v8_8.zip",
+          "changelog": "",
+          "size": 49409
         }
       ]
     },
