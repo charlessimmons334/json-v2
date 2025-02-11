@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1739253936.499528
+    "timestamp": 1739275602.115404
   },
   "modules": [
     {
@@ -77,6 +77,14 @@
           "versionCode": 4,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/AFWall-Boot-AntiLeak/v1.3_4.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1640525162.0,
+          "version": "v2.7",
+          "versionCode": 27,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/AFWall-Boot-AntiLeak/v2.7_27.zip",
+          "changelog": "",
+          "size": 16532
         }
       ]
     },
