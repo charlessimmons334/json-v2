@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1739924172.629055
+    "timestamp": 1739945144.090365
   },
   "modules": [
     {
@@ -4546,6 +4546,14 @@
           "versionCode": 20241023,
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v3.47.0_20241023.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v3.47.0_20241023.md",
+          "size": 19770
+        },
+        {
+          "timestamp": 1729236859.0,
+          "version": "v3.47.2",
+          "versionCode": 20241212,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v3.47.2_20241212.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/usb-samplerate-unlocker/v3.47.2_20241212.md",
           "size": 19770
         }
       ]
