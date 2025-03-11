@@ -8,6 +8,14 @@
       "versionCode": 466,
       "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/RTKS/v4.6.6_466.zip",
       "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/RTKS/v4.6.6_466.md"
+    },
+    {
+      "timestamp": 1669914042.0,
+      "version": "v1.0.8",
+      "versionCode": 1008,
+      "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/RTKS/v1.0.8_1008.zip",
+      "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/RTKS/v1.0.8_1008.md",
+      "size": 1803989
     }
   ]
 }
