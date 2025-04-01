@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1743466741.628272
+    "timestamp": 1743487569.566108
   },
   "modules": [
     {
@@ -1601,14 +1601,14 @@
     },
     {
       "id": "Re-Malwack",
-      "name": "Re-Malwack | Protection-maxxing \u007f\u007f",
-      "version": "v5.3.0",
-      "versionCode": 530,
-      "author": "ZG089 | Github & Telegram : @ZG089",
-      "description": "Protecting your device from ads, Malware, p*rn, and more :) ",
+      "name": "Re-Malwack | Not just a normal ad-blocker module \u2728",
+      "version": "v6.0",
+      "versionCode": 600,
+      "author": "ZG089",
+      "description": "A fully-fledged ad-block module. Contains all your needs \u2728",
       "added": 1732300923.536364,
       "donate": "http://buymeacoffee.com/ZG089",
-      "support": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/issues",
+      "support": "https://t.me/Re_Malwack",
       "verified": true,
       "categories": [
         "Adblocking and Hosts Files",
@@ -1616,14 +1616,15 @@
         "KernelSU",
         "Magisk",
         "Built Different",
-        "Protection"
+        "Protection",
+        "WebUI"
       ],
-      "icon": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/20240828-173916-0000-modified.png",
-      "cover": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/Add-Text-11-22-12-57-45.png",
+      "icon": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/assets/logo.png",
+      "cover": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/assets/banner.png",
       "license": "GPL-3.0",
-      "readme": "https://raw.githubusercontent.com/magisk-modules-alt-repo/Re-Malwack/refs/heads/main/README.md",
-      "timestamp": 1734878287.0,
-      "size": 47546,
+      "readme": "https://raw.githubusercontent.com/ZG089/Re-Malwack/refs/heads/main/README.md",
+      "timestamp": 1743478933.0,
+      "size": 1759912,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.ACTION",
@@ -1649,6 +1650,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.3.0_530.zip",
           "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v5.3.0_530.md",
           "size": 47546
+        },
+        {
+          "timestamp": 1743478933.0,
+          "version": "v6.0",
+          "versionCode": 600,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v6.0_600.zip",
+          "changelog": "https://magisk-modules-alt-repo.github.io/json-v2/modules/Re-Malwack/v6.0_600.md",
+          "size": 1759912
         }
       ]
     },
