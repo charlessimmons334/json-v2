@@ -9,7 +9,7 @@
   "description": "An alternative to Magisk-Modules-Repo with fewer restrictions. Now larger than the original!",
   "metadata": {
     "version": 1,
-    "timestamp": 1745281029.507113
+    "timestamp": 1745301971.236146
   },
   "modules": [
     {
@@ -2586,16 +2586,16 @@
     {
       "id": "chroot-distro",
       "name": "chroot-distro",
-      "version": "1.2.3",
-      "versionCode": 11,
+      "version": "1.4.0",
+      "versionCode": 15,
       "author": "@YasserNull",
       "description": "install linux distributions on android",
       "added": 1719067736.641686,
       "support": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/issues",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/main/README.md",
       "verified": false,
-      "timestamp": 1729612861.0,
-      "size": 690864,
+      "timestamp": 1745296787.0,
+      "size": 699380,
       "track": {
         "type": "GIT",
         "added": 1719067736.641686,
@@ -2604,14 +2604,6 @@
         "build_metadata": "https://magisk-modules-alt-repo.github.io/json-v2/modules/chroot-distro/track.json"
       },
       "versions": [
-        {
-          "timestamp": 1726418045.0,
-          "version": "1.1.4",
-          "versionCode": 6,
-          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/chroot-distro/1.1.4_6.zip",
-          "changelog": "",
-          "size": 688931
-        },
         {
           "timestamp": 1727548125.0,
           "version": "1.1.5",
@@ -2651,6 +2643,14 @@
           "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/chroot-distro/v1.0.1_101.zip",
           "changelog": "",
           "size": 690864
+        },
+        {
+          "timestamp": 1745296787.0,
+          "version": "v1.1.3",
+          "versionCode": 1103,
+          "zipUrl": "https://magisk-modules-alt-repo.github.io/json-v2/modules/chroot-distro/v1.1.3_1103.zip",
+          "changelog": "",
+          "size": 699380
         }
       ]
     },
